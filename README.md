@@ -20,3 +20,4 @@ Maybe convert this to an ebook?
   * [Popular Internships](#tocplugin)
   * [Transition Advice](#tocplugin)
 - [Choosing a Career](#highights)
+- [Keeping up with Tech](#highights)
